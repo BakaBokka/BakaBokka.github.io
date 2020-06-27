@@ -1,2 +1,3 @@
-# BakaBokka.github.io
-10th YaP project
+# BakaBokka.github.io v0.0.2
+YaP 10th sprint
+https://bakabokka.github.io/BakaBokka.github.io/
